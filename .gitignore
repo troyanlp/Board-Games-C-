@@ -1,0 +1,9 @@
+*.swp
+*.osm
+*.o
+build/
+bin/
+lib/
+.ccls-cache/
+.replit
+.nix
